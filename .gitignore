@@ -16,3 +16,4 @@ nano .gitignore
 .env
 
 .DS_Store
+.DS_Store
